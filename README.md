@@ -21,7 +21,7 @@ Tudo que acontece na empresa vira um **nó** de um grafo vivo: uma **decisão**,
 O resultado é uma memória operacional única. Qualquer pessoa — ou qualquer **agente de IA** — recupera o contexto completo de um assunto em segundos, seguindo as arestas, em vez de garimpar em chats, planilhas e e-mails soltos.
 
 <div align="center">
-<img src="assets/central-grafo.png" alt="Grafo vivo da Central de Projetos (anonimizado)" width="760">
+<img src="assets/central-grafo.gif" alt="Grafo vivo da Central de Projetos (anonimizado)" width="760">
 <br>
 <em>A rede de conhecimento real, anonimizada. Cada ponto é um nó (decisão, tarefa, ideia, documento…); cada linha é uma relação. Os aglomerados são projetos densos, com muitas tarefas e decisões ligadas entre si. Sem nenhum dado de negócio — só a <strong>forma</strong> da rede.</em>
 </div>
